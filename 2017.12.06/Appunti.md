@@ -6,6 +6,7 @@ Abbiamo usato un Marlin non modificato per provare a muovere il motore, inizialm
 **Problema:** il motore non funziona correttamente con il Marlin (non modificato)
 
 Driver: http://www.futurashop.it/STEPDRIVER35A-DRIVER-STEPPER-3,5A
+
 Motore: http://www.rd-lab.it/it/motori-stepper-altre-foto-nema-23#23-57L112DS
 
 Frequenza massima raggiungibile: 500us (montato) di delay quindi 1,25KHz di frequenza con 1/16 di microstep a 3200 step al giro
