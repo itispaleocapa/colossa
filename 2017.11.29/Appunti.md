@@ -9,10 +9,10 @@ PIN     PIN NAME   DESCRIPTION
 2       DIR+	   Direction Input Anode of Optoisolator
 3       PUL-	   Pulse Input Cathode of Optoisolator
 4       PUL+	   Pulse Input Anode of Optoisolator
-5       EN-	     Enable Input Cathode of Optoisolator
-6       EN+	     Enable Input Anode of Optoisolator
-7       A+	     Stepper Motor Output Winding A Positive
-8       A-	     Stepper Motor Output Winding A Negative
+5       EN-	   Enable Input Cathode of Optoisolator
+6       EN+	   Enable Input Anode of Optoisolator
+7       A+	   Stepper Motor Output Winding A Positive
+8       A-	   Stepper Motor Output Winding A Negative
 9       B+         Stepper Motor Output Winding B Positive
 10      B-         Stepper Motor Output Winding B Negative
 11      DC-        Power Supply Input Negative / 0V
