@@ -1,5 +1,6 @@
 # 06/12/2017 - Livella, Soldini
 Abbiamo testato con successo lo sketch del motore scritto la scorsa volta, il motore si muove in entrambe le direzioni (il problema era nel cavo che andava dal driver all'Arduino che non conduceva).
+
 Abbiamo usato un Marlin non modificato per provare a muovere il motore, inizialmente il motore si muoveva in entrambe le direzioni ma poi ha iniziato a dare problemi.
 **Problema:** il motore non funziona correttamente con il Marlin (non modificato)
 
