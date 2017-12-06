@@ -1,0 +1,13 @@
+06/12/2017	Livella, Soldini, Vitali
+Abbiamo testato con successo lo sketch del motore scritto la scorsa volta, il motore si muove in entrambe le direzioni.
+Abbiamo usato un marlin non modificato per provare a muovere il motore, inizialmente il motore si muoveva in entrambe le direzioni ma poi il motore si muoveva solo da una parte.
+Problema: Sembrerebbe che a causa del cavo la direzione del motore non può essere controllata
+
+Driver: http://www.futurashop.it/STEPDRIVER35A-DRIVER-STEPPER-3,5A
+Motore: http://www.rd-lab.it/it/motori-stepper-altre-foto-nema-23#23-57L112DS 
+
+||Frequenza massima raggiungibile: 500us(montato) di delay quindi 1,25KHz di frequenza con 1/16 di microstep a 3200 step al giro||
+
+		          S1	S2	S3
+Con bolognini	Off	Off	On	16-400
+Adesso		    On	Off	On	2/A-400
