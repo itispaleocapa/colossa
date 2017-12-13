@@ -10,4 +10,4 @@ Abbiamo tenuto i settaggi dei driver nel seguente modo:
 
 | S1 | S2 | S3 | Micro step | Pulse |
 |---|----|----|------------|-------|
-| Off | Off | On | 16 | 500 |
+| Off | Off | On | 16 | 400 |
