@@ -6,4 +6,6 @@ Abbiamo modificato le seguente cose del Marlin:
 * Invertito gli endstop 
 
 Abbiamo testato in repetier host la velocità massima che i motori possono raggiungere `70mm/s`
+Abbiamo tenuto i settaggi dei driver nel seguente modo:
+
 
