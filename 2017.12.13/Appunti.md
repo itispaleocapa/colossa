@@ -8,6 +8,6 @@ Abbiamo modificato le seguente cose del Marlin:
 Abbiamo testato in repetier host la velocità massima che i motori possono raggiungere `70mm/s`
 Abbiamo tenuto i settaggi dei driver nel seguente modo:
 
-| S1 | S2 | S3 | Micro step | Pulse | Note
-|---|----|----|------------|-------|-----
-| Off | Off | On | 16
+| S1 | S2 | S3 | Micro step | Pulse |
+|---|----|----|------------|-------|
+| Off | Off | On | 16 | 500 |
