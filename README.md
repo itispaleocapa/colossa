@@ -1,2 +1,2 @@
 # colossa
-a big  reprap 3D printer
+a big 3D printer
