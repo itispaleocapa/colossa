@@ -7,7 +7,7 @@ Per un problema di comunicazione la stampa è terminata circa a metà, ma ci è 
 
 Abbiamo modificato la configurazione del Marlin, invertendo la direzione dello stepper dell'asse x (riga 745):
 ```
-#define INVERT_X_DIR true`
+#define INVERT_X_DIR true
 ```
 
 Abbiamo fatto un test di stampa con l'hello world di prima, ma senza la base, soltanto le lettere, per verificare il corretto funzionamento dell'asse.
