@@ -1,4 +1,4 @@
-# 24/01/2018 - Livella, Merelli, Soldini
+# 24/01/2018 - Consoli, Livella, Merelli, Soldini
 In precedenti sessioni non documentate è stato montato e collegato l'estrusore e sono stati effettuati dei piccoli test.
 
 Oggi abbiamo a provato a stampare un hello world (https://www.thingiverse.com/thing:16621).
