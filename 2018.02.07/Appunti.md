@@ -1,5 +1,5 @@
 # 07/02/2018 - Consoli, Livella, Soldini
-Prove con piatti riscaldati e Marlin
+Prove con piatti riscaldati e Marlin.
 
 Modificata riga 291 nella configurazione del Marlin per abilitare il sensore:
 ```
