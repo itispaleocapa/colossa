@@ -1,4 +1,4 @@
-# 07/02/2018 - Consoli, Livella, Soldini
+# 14/02/2018 - Consoli, Livella, Soldini
 
 - Installato termistore
 - Effettuato test di stampa
